@@ -1,0 +1,7 @@
+{
+  "name": "DMAGAZINE",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
